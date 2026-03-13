@@ -13,15 +13,21 @@ See organisatsioon on mõeldud:
 ## Alusta siit
 
 Kui soovid alustada uut digiloovtöö projekti:
-1. ava digiloovtöö mall
-2. loo selle põhjal uus repositoorium
-3. täida projekti põhiandmed
-4. lisa töö materjalid ja alusta töö dokumenteerimist
+
+1. Ava digiloovtöö mall.
+2. Loo selle põhjal uus repositoorium.
+3. Täida projekti põhiandmed.
+4. Lisa töö materjalid ja alusta töö dokumenteerimist.
+
+## Juhendid
+
+- [Õpilase juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-opilasele.md)
+- [Õpetaja juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-juhendajale.md)
 
 ## Olulised repositooriumid
 
-- `digiloovtoo-mall` – digiloovtöö projektimall
-- `digiloovtoo-naidis` – mallist loodud näidisprojekt
+- [digiloovtoo-mall](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall) – digiloovtöö projektimall
+- [digiloovtoo-naidis](https://github.com/DigiloovtooPlatvorm/digiloovtoo-naidis) – mallist loodud näidisprojekt
 
 ## Lisainfo
 
