@@ -21,7 +21,7 @@ Kui soovid alustada uut digiloovtöö projekti:
 
 ## Juhendid
 
-- [Õpilase juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-opilasele.md)
+- [Õpilase juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-%C3%B5pilasele.md)
 - [Õpetaja juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-juhendajale.md)
 
 ## Olulised repositooriumid
