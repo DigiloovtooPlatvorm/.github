@@ -2,13 +2,13 @@
 
 See GitHubi organisatsioon on loodud digiloovtöö projektide loomiseks, haldamiseks ja dokumenteerimiseks.
 
-Digiloovtöö aitab õpilastel mõista informaatika valdkonda praktilise loovtöö kaudu. Töö käigus sõnastatakse eesmärgid, väljundid, tegevuskava ja ülesanded, tehakse koostööd, luuakse praktiline lahendus ning valmistatakse ette töö esitlus. Töö toimub etappidena, et selle edenemine oleks selgelt jälgitav.
+Digiloovtöö aitab õpilastel mõista informaatika valdkonda praktilise loovtöö kaudu. Töö käigus sõnastatakse eesmärgid, tegevused ja oodatav tulemus, tehakse koostööd ning luuakse praktiline lahendus.
 
 ## Kellele see on mõeldud
 
 See organisatsioon on mõeldud:
 - õpilastele digiloovtöö projekti loomiseks ja haldamiseks
-- õpetajatele ja juhendajatele töö jälgimiseks, suunamiseks ja juhendamiseks
+- õpetajatele ja juhendajatele töö jälgimiseks ja juhendamiseks
 
 ## Alusta siit
 
@@ -19,7 +19,7 @@ Uue digiloovtöö projekti alustamiseks ava:
 
 Siin asuvad:
 - digiloovtöö projektimall
-- õpilase ja juhendaja juhendid
+- õpilase ja õpetaja juhendid
 - projekti analüüsi mallid
 - töö käigus tekkivate materjalide struktuur
 - näidisprojektid vastavalt vajadusele
