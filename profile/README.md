@@ -22,7 +22,6 @@ Siin asuvad:
 - õpilase ja õpetaja juhendid
 - projekti analüüsi mallid
 - töö käigus tekkivate materjalide struktuur
-- näidisprojektid vastavalt vajadusele
 
 ## Juhendid
 
