@@ -8,7 +8,7 @@ Digiloovtöö aitab õpilastel mõista informaatika valdkonda praktilise loovtö
 
 See organisatsioon on mõeldud:
 - õpilastele digiloovtöö projekti loomiseks ja haldamiseks
-- õpetajatele ja juhendajatele töö jälgimiseks ja juhendamiseks
+- õpetajatele ja juhendajatele töö jälgimiseks ning juhendamiseks
 
 ## Alusta siit
 
@@ -29,9 +29,10 @@ Siin asuvad:
 Mallrepositooriumis on olemas:
 - [Õpilase juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-%C3%B5pilasele.md)
 - [Õpetaja juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-juhendajale.md)
+- [Kanban ja Scrum GitHubis](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/kanban-ja-scrum.md)
 - [Wiki kasutamise juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/wiki-kasutamine.md)
 
-## Projektid ja näited
+## Repositooriumid
 
 - [Digiloovtöö mall](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall)
 - [Kõik organisatsiooni repositooriumid](https://github.com/DigiloovtooPlatvorm?tab=repositories)
